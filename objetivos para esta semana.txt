@@ -1,0 +1,29 @@
+Para Terça||
+	  \/
+
+(Atualizar o Artigo)
+exemplos do figma(Frond-end)
+escolher o micro serviço
+
+(Cronograma)
+_______________________________________________________________________________________
+Para Quinta||
+	   \/
+
+2.2 Micro Serviços.(contextualizar)
+	- Introdução a Micros Serviços e suas Caracteristicas(oque é, oque faz?),
+	 explicar a importancia dos Micros serviços,
+	 explicar o Micro serviço escolhido,
+	 o porque foi escolhido.
+2.3 Metodologia de desenvolvimento de software.(contextualizar)
+	- Introdução a metodologia de desenvolvimento de Software e suas Caracteristicas(oque é, oque faz?),
+	 explicar a importancia da Metodologia de desenvolvimento de Software,
+	 explicar a Metodologia escolhida e suas caracteristicas,
+	 Pontos positivos e negativos e o porque foi escolhida. 
+2.4 Trabalhos Corrilatos.(contextualizar)
+	- Pesquisa de Artigos e Trabalhos que parecem e tomam o mesmo rumo que o nosso(Site de marketplace, Micros Serviços,Front-end),
+	- Um Resumo dos Artigos contendo de 3 a 4 paragrafos falando sobre o resumo do mesmo, o objetivo, a metodologia,pontos positivos e negativos,a conclusão, os resultados obtidos, as vantagens e desvantagens...
+
+	-->>contextualizar como por exemplo
+		= Resumo de um livro <<--
+3.0 Cronograma
